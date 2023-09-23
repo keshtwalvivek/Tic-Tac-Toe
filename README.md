@@ -19,9 +19,7 @@ Responsive design for a seamless experience on various devices.
 # Usage
 Start the development server:
 
-bash
-Copy code
-npm run dev
+`npm run dev`
 Open your web browser and go to http://localhost:3000 to play the Tic-Tac-Toe game.
 
 To make a move, click on an empty square on the board.
